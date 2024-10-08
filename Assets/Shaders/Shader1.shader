@@ -40,6 +40,7 @@ Shader "Unlit/Shader1"
                 return o;
             }
 
+            // ShaderToy Ref. https://www.shadertoy.com/view/XfBfW3
             fixed4 frag (v2f i) : SV_Target
             {
                 float2 p = getScreenPos(i.uv);
