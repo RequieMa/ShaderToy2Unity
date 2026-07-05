@@ -1,5 +1,10 @@
 # ShaderToy2Unity
 
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
+![ShaderLab](https://img.shields.io/badge/ShaderLab-282c34?style=flat&logo=unity&logoColor=white)
+![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=flat&logo=opengl&logoColor=white)
+
 Port GLSL shaders from ShaderToy into Unity ShaderLab.
 
 ## What
@@ -24,6 +29,10 @@ Manual shader porting is tedious and error-prone. ShaderToy is an incredible res
 # Example (adjust based on your project structure)
 dotnet run -- --input shader.glsl --output MyShader.shader
 ```
+
+## Screenshots
+
+*Screenshots coming soon. If you've used ShaderToy2Unity, PRs with examples are welcome.*
 
 ## Status
 
